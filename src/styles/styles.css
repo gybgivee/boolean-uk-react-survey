@@ -150,7 +150,7 @@ h2 {
 }
 
 .form__group.radio label:hover {
-  background-color: white;
+  background-color: rgb(80, 230, 145);
 }
 
 .form__group input {
